@@ -7,7 +7,7 @@ group = 'spotting.voicetype'
 version = '1.0.0'
 
 java {
-    archivesBaseName = 'ayachinene'
+    archivesBaseName = 'VoicePack-AyachiNene-Forge-1.16.5'
     toolchain.languageVersion = JavaLanguageVersion.of(8)
 }
 
