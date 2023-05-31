@@ -1,0 +1,634 @@
+{
+  "allay": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:allay",
+        "stream": true
+      }
+    ]
+  },
+  "axolotl": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:axolotl",
+        "stream": true
+      }
+    ]
+  },
+  "bat": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:bat",
+        "stream": true
+      }
+    ]
+  },
+  "bee": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:bee",
+        "stream": true
+      }
+    ]
+  },
+  "blaze": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:blaze",
+        "stream": true
+      }
+    ]
+  },
+  "cat": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:cat",
+        "stream": true
+      }
+    ]
+  },
+  "cave_spider": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:cave_spider",
+        "stream": true
+      }
+    ]
+  },
+  "charged_creeper": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:charged_creeper",
+        "stream": true
+      }
+    ]
+  },
+  "chicken": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:chicken",
+        "stream": true
+      }
+    ]
+  },
+  "chicken_jockey": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:chicken_jockey",
+        "stream": true
+      }
+    ]
+  },
+  "cod": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:cod",
+        "stream": true
+      }
+    ]
+  },
+  "cow": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:cow",
+        "stream": true
+      }
+    ]
+  },
+  "creeper": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:creeper",
+        "stream": true
+      }
+    ]
+  },
+  "dolphin": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:dolphin",
+        "stream": true
+      }
+    ]
+  },
+  "donkey": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:donkey",
+        "stream": true
+      }
+    ]
+  },
+  "drowned": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:drowned",
+        "stream": true
+      }
+    ]
+  },
+  "elder_guardian": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:elder_guardian",
+        "stream": true
+      }
+    ]
+  },
+  "ender_dragon": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:ender_dragon",
+        "stream": true
+      }
+    ]
+  },
+  "enderman": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:enderman",
+        "stream": true
+      }
+    ]
+  },
+  "endermite": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:endermite",
+        "stream": true
+      }
+    ]
+  },
+  "evoker": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:evoker",
+        "stream": true
+      }
+    ]
+  },
+  "fish": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:fish",
+        "stream": true
+      }
+    ]
+  },
+  "fox": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:fox",
+        "stream": true
+      }
+    ]
+  },
+  "frog": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:frog",
+        "stream": true
+      }
+    ]
+  },
+  "ghast": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:ghast",
+        "stream": true
+      }
+    ]
+  },
+  "giant": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:giant",
+        "stream": true
+      }
+    ]
+  },
+  "goat": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:goat",
+        "stream": true
+      }
+    ]
+  },
+  "guardian": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:guardian",
+        "stream": true
+      }
+    ]
+  },
+  "hoglin": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:hoglin",
+        "stream": true
+      }
+    ]
+  },
+  "horse": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:horse",
+        "stream": true
+      }
+    ]
+  },
+  "husk": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:husk",
+        "stream": true
+      }
+    ]
+  },
+  "illusioner": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:illusioner",
+        "stream": true
+      }
+    ]
+  },
+  "iron_golem": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:iron_golem",
+        "stream": true
+      }
+    ]
+  },
+  "llama": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:llama",
+        "stream": true
+      }
+    ]
+  },
+  "magma_cube": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:magma_cube",
+        "stream": true
+      }
+    ]
+  },
+  "mooshroom": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:mooshroom",
+        "stream": true
+      }
+    ]
+  },
+  "mule": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:mule",
+        "stream": true
+      }
+    ]
+  },
+  "ocelot": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:ocelot",
+        "stream": true
+      }
+    ]
+  },
+  "panda": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:panda",
+        "stream": true
+      }
+    ]
+  },
+  "parrot": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:parrot",
+        "stream": true
+      }
+    ]
+  },
+  "phantom": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:phantom",
+        "stream": true
+      }
+    ]
+  },
+  "pig": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:pig",
+        "stream": true
+      }
+    ]
+  },
+  "piglin": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:piglin",
+        "stream": true
+      }
+    ]
+  },
+  "piglin_brute": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:piglin_brute",
+        "stream": true
+      }
+    ]
+  },
+  "pillager": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:pillager",
+        "stream": true
+      }
+    ]
+  },
+  "player": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:player",
+        "stream": true
+      }
+    ]
+  },
+  "polar_bear": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:polar_bear",
+        "stream": true
+      }
+    ]
+  },
+  "pufferfish": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:pufferfish",
+        "stream": true
+      }
+    ]
+  },
+  "rabbit": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:rabbit",
+        "stream": true
+      }
+    ]
+  },
+  "ravager": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:ravager",
+        "stream": true
+      }
+    ]
+  },
+  "salmon": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:salmon",
+        "stream": true
+      }
+    ]
+  },
+  "sheep": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:sheep",
+        "stream": true
+      }
+    ]
+  },
+  "shulker": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:shulker",
+        "stream": true
+      }
+    ]
+  },
+  "silverfish": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:silverfish",
+        "stream": true
+      }
+    ]
+  },
+  "skeleton": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:skeleton",
+        "stream": true
+      }
+    ]
+  },
+  "skeleton_horse": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:skeleton_horse",
+        "stream": true
+      }
+    ]
+  },
+  "slime": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:slime",
+        "stream": true
+      }
+    ]
+  },
+  "snow_golem": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:snow_golem",
+        "stream": true
+      }
+    ]
+  },
+  "spider": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:spider",
+        "stream": true
+      }
+    ]
+  },
+  "squid": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:squid",
+        "stream": true
+      }
+    ]
+  },
+  "stray": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:stray",
+        "stream": true
+      }
+    ]
+  },
+  "strider": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:strider",
+        "stream": true
+      }
+    ]
+  },
+  "tadpole": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:tadpole",
+        "stream": true
+      }
+    ]
+  },
+  "tropical_fish": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:tropical_fish",
+        "stream": true
+      }
+    ]
+  },
+  "turtle": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:turtle",
+        "stream": true
+      }
+    ]
+  },
+  "vex": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:vex",
+        "stream": true
+      }
+    ]
+  },
+  "villager": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:villager",
+        "stream": true
+      }
+    ]
+  },
+  "vindicator": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:vindicator",
+        "stream": true
+      }
+    ]
+  },
+  "wandering_trader": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:wandering_trader",
+        "stream": true
+      }
+    ]
+  },
+  "warden": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:warden",
+        "stream": true
+      }
+    ]
+  },
+  "witch": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:witch",
+        "stream": true
+      }
+    ]
+  },
+  "wither": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:wither",
+        "stream": true
+      }
+    ]
+  },
+  "wither_skeleton": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:wither_skeleton",
+        "stream": true
+      }
+    ]
+  },
+  "wolf": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:wolf",
+        "stream": true
+      }
+    ]
+  },
+  "zoglin": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:zoglin",
+        "stream": true
+      }
+    ]
+  },
+  "zombie": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:zombie",
+        "stream": true
+      }
+    ]
+  },
+  "zombie_horse": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:zombie_horse",
+        "stream": true
+      }
+    ]
+  },
+  "zombie_villager": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:zombie_villager",
+        "stream": true
+      }
+    ]
+  },
+  "zombified_piglin": {
+    "sounds": [
+      {
+        "name": "svp_ayachinene:zombified_piglin",
+        "stream": true
+      }
+    ]
+  }
+}
